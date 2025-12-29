@@ -29,13 +29,13 @@ yang fokus pada **fungsi, tampilan, dan pengalaman pengguna**.
 
 ## 🎓 Education
 - 🏫 **Universitas Bina Bangsa**  
-- 🎯 Program Studi: **Teknologi Informasi / Informatika**  
+- 🎯 Program Studi: **Ilmu Komputer / Informatika**  
 - 📚 Fokus Pembelajaran:
   - Web Development (Frontend & Backend)
   - Software Engineering
   - UI/UX Design
-  - Database & System Analysis
-  - Project-Based Learning
+  - Database mysql
+  - Ai
 
 > 🎓 Aktif mengembangkan skill praktikal di luar perkuliahan melalui eksplorasi teknologi,  
 > membangun project nyata, dan belajar mandiri secara konsisten.
