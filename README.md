@@ -1,120 +1,58 @@
-<!-- 🌈 FULL COLOR README FOR FERRY EFRANSYAH -->
+<!-- 🎯 HR QUICK SCAN PROFILE -->
 
-<!-- Banner -->
-![Ferry Banner](https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Ferry%20Efransyah&fontSize=55&fontAlign=50&fontColor=ffffff&animation=fadeIn)
+<!-- Clean Animated Banner -->
+![Banner](https://capsule-render.vercel.app/api?type=rect&height=170&color=gradient&text=Ferry%20Efransyah&fontSize=42&fontColor=ffffff&animation=fadeIn)
 
-<!-- Typing Animation -->
+<!-- Subtle Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF4D8D&size=28&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Frontend+%26+Backend+Enthusiast;Creative+Coder;UI+Lover+%F0%9F%8C%88;Always+Learning+New+Things"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&pause=1200&color=4CC9F0&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mahasiswa+Universitas+Bina+Bangsa;Web+%7C+Backend+%7C+UI+Aesthetic"/>
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-## 👋 Hello, I'm Ferry Efransyah  
+## 👨‍💻 Profile Summary
 🎓 **Mahasiswa – Universitas Bina Bangsa**  
-💻 **Full Stack Developer** | 🎨 **UI Aesthetic Enthusiast**
+💼 **Full Stack Developer (Web & Mobile)**
 
-Saya adalah developer yang **fokus membangun aplikasi modern, cepat, dan user-friendly**.  
-Suka eksplor teknologi baru, desain UI warna-warni, dan solusi yang **benar-benar dipakai user** 🚀✨
-
-📍 *Coding with passion, creativity, and consistency.*
+Membangun aplikasi **modern, rapi, dan scalable** dengan fokus pada  
+**clean code, performa, dan UI yang nyaman digunakan**.
 
 ---
 
-## 🎓 Education
-- 🏫 **Universitas Bina Bangsa**  
-  🎯 Program Studi: Teknologi Informasi / Informatika  
-  📚 Fokus: Web Development, Software Engineering, UI/UX
+## 🧠 Key Skills
+- Full Stack Web Development  
+- REST API & Backend Architecture  
+- Responsive UI (React / Vue)  
+- Database Design (MySQL, MongoDB)  
+- Git & Team Collaboration  
 
 ---
 
-## 🚀 Featured Projects
-🔭 Beberapa project yang sedang & sudah saya kerjakan:
-
-- 🚀 **Laravel Project**  
-  🔗 https://github.com/Ferry10-02/Laravel
-
-- 🌈 **Punyaku App**  
-  🔗 https://github.com/Ferry10-02/punyaku
-
-- 🛒 **Warung Management App**  
-  🔗 https://github.com/Ferry10-02/warung
-
-> ✨ *Semua project dibuat dengan fokus performa, clean code, dan UI yang nyaman.*
+## 🚀 Selected Projects
+- **Laravel Project** → https://github.com/Ferry10-02/Laravel  
+- **Punyaku App** → https://github.com/Ferry10-02/punyaku  
+- **Warung Management App** → https://github.com/Ferry10-02/warung  
 
 ---
 
-## ⚙️ Tech Stack & Skills
-
-### 🔤 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=php,js,java,python,html,css,cpp,cs" height="50"/>
-</p>
-
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vue,bootstrap,tailwind,scss" height="50"/>
-</p>
-
-### 🧩 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express" height="50"/>
-</p>
-
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" height="50"/>
-</p>
-
-### 📱 Mobile Development
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio" height="50"/>
-</p>
-
-### 🧠 AI / Computer Vision
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" height="50"/>
-</p>
+## ⚙️ Tech Snapshot
+<img src="https://skillicons.dev/icons?i=php,js,react,vue,laravel,nodejs,mysql,flutter&theme=dark" height="44"/>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ferry10-02&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferry10-02&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ferry10-02&theme=neon-dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ferry10-02&show_icons=true&theme=radical&hide_border=true" height="150"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
-📱 **WhatsApp**  
-🔗 https://wa.me/6285772416042
-
-📸 **Instagram**  
-🔗 https://www.instagram.com/ferry_programmer
-
-📘 **Facebook**  
-🔗 https://www.facebook.com/ferry.efransyah.2025
+## 📬 Contact
+### 🌐 Contact
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285772416042)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ferry_programmer)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ferry.efransyah.2025)
 
 ---
 
-## 🎉 Fun Facts
-- 😎 Coding sambil denger musik
-- 🎨 Pecinta UI aesthetic & warna-warni
-- 🔥 Motto hidup:  
-  > *"Error itu biasa, yang luar biasa adalah yang tidak menyerah."*
-
----
-
-## 👀 Profile Visitors
-![Visitors](https://komarev.com/ghpvc/?username=Ferry10-02&color=ff69b4&style=flat-square)
-
----
-
-⭐️ *Thanks for visiting my profile — let’s build something awesome together!* 🚀
+⭐️ *Open for internship, junior developer, freelance, and collaboration.*
