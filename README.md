@@ -29,7 +29,7 @@ yang fokus pada **fungsi, tampilan, dan pengalaman pengguna**.
 
 ## 🎓 Education
 - 🏫 **Universitas Bina Bangsa**  
-- 🎯 Program Studi: **Ilmu Komputer / Informatika**  
+- 🎯 Program Studi: **Ilmu Komputer / Ilmu Komputer
 - 📚 Fokus Pembelajaran:
   - Web Development (Frontend & Backend)
   - Software Engineering
